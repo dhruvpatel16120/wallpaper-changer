@@ -1,0 +1,15 @@
+[Unit]
+Description=GNOME Wallpaper Changer
+After=graphical-session.target
+
+[Service]
+ExecStart=%h/wallpaper-changer/wallpaper-changer.sh
+Restart=always
+RestartSec=10
+Environment=DISPLAY=:0
+Environment=XDG_CURRENT_DESKTOP=GNOME
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

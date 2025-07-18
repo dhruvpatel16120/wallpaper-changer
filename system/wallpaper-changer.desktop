@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Wallpaper Changer
+Exec=/home/$USER/wallpaper-changer/scripts/wallpaper-changer.sh
+Icon=preferences-desktop-wallpaper
+Type=Application
+Comment=Change wallpapers on GNOME periodically
+X-GNOME-Autostart-enabled=true
