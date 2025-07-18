@@ -3,7 +3,7 @@
 ![preview](./preview.png)
 
 > **Fully automated, blazing fast wallpaper rotation for GNOME Desktop with GDM login screen support – written entirely in pure Bash.**
-
++ give a star🌟 to the GitHub Repo if you really like this.
 ---
 
 ![bash](https://img.shields.io/badge/Bash-5.x-blue.svg)
@@ -180,7 +180,7 @@ This will:
 
 This project is licensed under the **MIT License**  
 See the [LICENSE](LICENSE) file for details.
-
++ give wallpaper credits to JaKooLit/Wallpaper-Bank [GitHub Repo](https://github.com/JaKooLit/Wallpaper-Bank)
 ---
 
 ## 🙌 Contributing
