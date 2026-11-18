@@ -1,6 +1,12 @@
 # 🎨 WCS – GNOME Wallpaper Changer Script
 
 ![preview](./preview.png)
+<div></div>
+
+![Highlight - 1](./1.webp)
+<div></div>
+
+![Highlight - 2](./2.webp)
 
 > **Fully automated, blazing fast wallpaper rotation for GNOME Desktop with GDM login screen support – written entirely in pure Bash.**
 + give a star🌟 to the GitHub Repo if you really like this.
